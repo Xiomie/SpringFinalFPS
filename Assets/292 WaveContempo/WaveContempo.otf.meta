@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bfcfd6a16da52b448ba393368c43d1d3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - WaveContempo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e1414d84af6dac840b5283a95f10e965, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
